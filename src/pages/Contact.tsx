@@ -10,7 +10,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Phone Numbers',
-      details: ['+254 722 435 888'],
+      details: ['+254 722 521 446'],
     },
     {
       icon: Mail,
@@ -84,16 +84,16 @@ const Contact = () => {
                   For urgent matters or emergency services, call us directly:
                 </p>
                 <a
-                  href="tel:+254722435888"
+                  href="tel:+254722521446"
                   className="inline-block bg-[#003399] text-white px-6 py-3 rounded-lg font-bold hover:scale-105 transition-all shadow-lg"
                 >
-                  Call +254 722 435 888
+                  Call +254 722 521 446
                 </a>
               </div>
 
               <div className="mt-8 flex space-x-4">
                 <a
-                  href="https://wa.me/254722435888"
+                  href="https://wa.me/254722521446"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 bg-green-500 text-white px-6 py-4 rounded-lg font-semibold hover:bg-green-600 transition-all flex items-center justify-center space-x-2 shadow-lg"
@@ -232,7 +232,7 @@ const Contact = () => {
               Book Appointment
             </button>
             <a
-              href="tel:+254722435888"
+              href="tel:+254722521446"
               className="bg-white text-[#003399] px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all hover:scale-105 shadow-xl"
             >
               Call Now

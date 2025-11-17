@@ -94,7 +94,7 @@ const Home = () => {
                 <ArrowRight className="w-5 h-5" />
               </button>
               <a
-                href="tel:+254722435888"
+                href="tel:+254722521446"
                 className="bg-white/10 backdrop-blur-sm border-2 border-white text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-white/20 transition-all hover:scale-105 shadow-xl"
               >
                 Call +254 722 435 888
@@ -221,7 +221,7 @@ const Home = () => {
               Book Appointment
             </button>
             <a
-              href="tel:+254722435888"
+              href="tel:+254722521446"
               className="bg-white text-[#003399] px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all hover:scale-105 shadow-xl"
             >
               Call Now

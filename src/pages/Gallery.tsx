@@ -170,10 +170,10 @@ const Gallery = () => {
               Book Service Now
             </button>
             <a
-              href="tel:+254722435888"
+              href="tel:+254722521446"
               className="bg-white text-[#003399] px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all hover:scale-105 shadow-xl"
             >
-              Call +254 722 435 888
+              Call +254 722 521 446
             </a>
           </div>
         </div>

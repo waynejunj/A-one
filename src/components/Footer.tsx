@@ -97,7 +97,7 @@ const Footer = ({ onNavigate }: FooterProps) => {
                   href="tel:+254722435888"
                   className="text-gray-300 hover:text-[#FFCC00] transition-colors"
                 >
-                  +254 722 435 888
+                  +254 722 521 446
                 </a>
               </li>
               <li className="flex items-center space-x-2">

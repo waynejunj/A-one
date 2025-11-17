@@ -143,7 +143,7 @@ const Booking = () => {
                     href="tel:+254722435888"
                     className="text-[#003399] font-semibold hover:text-[#FFCC00]"
                   >
-                    Call +254 722 435 888
+                    Call +254 722 521 446
                   </a>
                 </p>
               </div>
@@ -196,7 +196,7 @@ const Booking = () => {
                           className={`w-full pl-10 pr-4 py-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-[#003399] ${
                             errors.phone ? 'border-red-500' : 'border-gray-300'
                           }`}
-                          placeholder="+254 722 435 888"
+                          placeholder="+254 722 521 446"
                         />
                       </div>
                       {errors.phone && (
